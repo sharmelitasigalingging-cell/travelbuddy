@@ -12,4 +12,4 @@
 npx expo start → Scan QR Code dengan Expo Go
 
 **Screenshot:**
-[Attach screenshot dari Expo Go di HP lo]
+[https://github.com/sharmelitasigalingging-cell/travelbuddy/blob/main/tb.jpeg]
